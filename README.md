@@ -5,8 +5,3 @@ Kho lưu trữ bài tập và thực hành môn Lập trình Java.
 ## Cấu trúc thư mục
 
 - [BaiTap_Buoi2](./BaiTap_Buoi2): Bài tập Buổi 2 về Mảng trong Java
-  - `Bai1.java`: Nhập vào `n` phần tử và tính tổng.
-  - `Bai2.java`: Hàm tính và in mảng tổng của 2 mảng.
-  - `Bai3.java`: Nhập mảng số nguyên từ chuỗi cách nhau bởi dấu cách.
-  - `Main.java`: Menu chọn và chạy nhanh các bài tập.
-  - `README.md`: Hướng dẫn chi tiết từng bài tập Buổi 2.
